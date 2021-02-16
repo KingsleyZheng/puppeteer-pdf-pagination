@@ -21,7 +21,7 @@
       </tr>
     </thead>
 
-    <!-- 包裹题目容器 -->
+    <!-- 包裹段落容器 -->
     <tbody class="table-body">
       <tr class="table-row">
         <td class="table-row-item">
@@ -29,6 +29,66 @@
 
           <div class="question-container">
             <div class="page-title">{{ query.title }}</div>
+            <p>段落</p>
+            <p>段落</p>
+            <p>段落</p>
+            <p>段落</p>
+            <p>段落</p>
+            <p>段落</p>
+            <p>段落</p>
+            <p>段落</p>
+            <p>段落</p>
+            <p>段落</p>
+            <p>段落</p>
+            <p>段落</p>
+            <p>段落</p>
+            <p>段落</p>
+            <p>段落</p>
+            <p>段落</p>
+            <p>段落</p>
+            <p>段落</p>
+            <p>段落</p>
+            <p>段落</p>
+            <p>段落</p>
+            <p>段落</p>
+            <p>段落</p>
+            <p>段落</p>
+            <p>段落</p>
+            <p>段落</p>
+            <p>段落</p>
+            <p>段落</p>
+            <p>段落</p>
+            <p>段落</p>
+            <p>段落</p>
+            <p>段落</p>
+            <p>段落</p>
+            <p>段落</p>
+            <p>段落</p>
+            <p>段落</p>
+            <p>段落</p>
+            <p>段落</p>
+            <p>段落</p>
+            <p>段落</p>
+            <p>段落</p>
+            <p>段落</p>
+            <p>段落</p>
+            <p>段落</p>
+            <p>段落</p>
+            <p>段落</p>
+            <p>段落</p>
+            <p>段落</p>
+            <p>段落</p>
+            <p>段落</p>
+            <p>段落</p>
+            <p>段落</p>
+            <p>段落</p>
+            <p>段落</p>
+            <p>段落</p>
+            <p>段落</p>
+            <p>段落</p>
+            <p>段落</p>
+            <p>段落</p>
+            <p>段落</p>
 
             <placeholder :height="36" />
           </div>
@@ -42,7 +102,7 @@
         <td class="table-row-item">
           <placeholder :height="70" />
 
-          <!-- <div class="page-footer"></div> -->
+          <!-- <div class="page-footer">页尾</div> -->
         </td>
       </tr>
     </tfoot>
@@ -106,12 +166,12 @@ export default {
   width: 690px;
   border-collapse: collapse;
 }
-.table-header {
-  display: table-header-group;
-}
-.table-footer {
-  display: table-footer-group;
-}
+// .table-header {
+//   display: table-header-group;
+// }
+// .table-footer {
+//   display: table-footer-group;
+// }
 .table-header,
 .table-body,
 .table-footer,

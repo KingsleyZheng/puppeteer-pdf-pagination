@@ -28,7 +28,7 @@ export default {
 }
 </script>
 
-<style lang="scss" scoped>
+<style lang="scss">
 .place-holder {
   width: 100%;
   .place-holder-item {
